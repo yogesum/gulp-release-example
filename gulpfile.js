@@ -8,9 +8,7 @@ var git = require('gulp-git');
 var fs = require('fs');
 
 gulp.task('changelog', function () {
-  return gulp.src('./CHANGELOG.md', {
-    buffer: false
-  })
+  return gulp.src('CHANGELOG.md')
     .pipe(conventionalChangelog({
       preset: 'angular' // Or to any other commit message convention you use.
     }))
