@@ -8,7 +8,7 @@ var git = require('gulp-git');
 var fs = require('fs');
 
 gulp.task('changelog', function () {
-  return gulp.src('CHANGELOG.md', {
+  return gulp.src('./CHANGELOG.md', {
     buffer: false
   })
     .pipe(conventionalChangelog({
