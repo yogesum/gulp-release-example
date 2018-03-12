@@ -4,17 +4,17 @@
 
 ### Bug Fixes
 
-* **gulp:** breaking at creating release ([3a3947a](https://github.com/yogesum/gulp-release-example/commit/3a3947a))
-* **gulp:** breaking due to lack of stream generation by conventional ([126ce98](https://github.com/yogesum/gulp-release-example/commit/126ce98))
-* **gulp:** still breaking ([fa8f136](https://github.com/yogesum/gulp-release-example/commit/fa8f136))
+* **gulp:** breaking at creating release ([02f86f6](https://github.com/yogesum/gulp-release-example/commit/02f86f6))
+* **gulp:** breaking due to lack of stream generation by conventional ([c6f903b](https://github.com/yogesum/gulp-release-example/commit/c6f903b))
+* **gulp:** still breaking ([e355761](https://github.com/yogesum/gulp-release-example/commit/e355761))
 
 ### Features
 
-* **gulp:** added gulp ([8c5429f](https://github.com/yogesum/gulp-release-example/commit/8c5429f))
+* **gulp:** added gulp ([a90209d](https://github.com/yogesum/gulp-release-example/commit/a90209d))
 
 ### Performance Improvements
 
-* **build-system:** increased build performance ([fc0b508](https://github.com/yogesum/gulp-release-example/commit/fc0b508))
+* **build-system:** increased build performance ([8593c4f](https://github.com/yogesum/gulp-release-example/commit/8593c4f))
 
 
 
