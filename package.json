@@ -1,5 +1,5 @@
 {
-  "name": "testing-gulp",
+  "name": "gulp-release-example",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yogesum/testing-gulp.git"
+    "url": "git+https://github.com/yogesum/gulp-release-example.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Yogesh Choudhary <yogesum@gmail.com>",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yogesum/testing-gulp/issues"
+    "url": "https://github.com/yogesum/gulp-release-example/issues"
   },
-  "homepage": "https://github.com/yogesum/testing-gulp#readme",
+  "homepage": "https://github.com/yogesum/gulp-release-example#readme",
   "devDependencies": {
     "conventional-github-releaser": "^0.5.0",
     "gulp": "^3.9.0",
