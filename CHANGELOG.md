@@ -1,3 +1,8 @@
+<a name="1.0.2"></a>
+## [1.0.2](https://github.com/yogesum/gulp-release-example/compare/1.0.1...1.0.2) (2018-03-12)
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2015-12-23)
 
